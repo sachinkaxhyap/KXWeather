@@ -1,0 +1,11 @@
+//
+//  Config.xcconfig
+//  i142 Clima
+//
+//  Created by Sachin Kaxhyap on 15/02/2025.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = 727c43eefa175bffb652b561a81d0abd

@@ -1,5 +1,5 @@
 # KXWeather
-#### Video Demo: 
+#### Video Demo: https://youtu.be/0PdupSVfi4I
 #### Description:
 **KX Weather** is a weather application built using SwiftUI that provides real-time weather updates and a 7-day forecast for any city. It fetches data from the OpenWeather API & open-meteo API and presents it in a clean, user-friendly interface.
 
